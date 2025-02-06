@@ -1,0 +1,19 @@
+.body {
+  background-color: #ccc;
+}
+
+.background {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background: url("./assets/eTd9KBQwdVo.jpg") no-repeat fixed center;
+}
+
+.test {
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  border-radius: 50%;
+  background: url("./assets/D8bMuGphtSc.jpg") no-repeat fixed center;
+  border: 8px solid red;
+}
